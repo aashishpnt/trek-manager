@@ -51,5 +51,5 @@ If you encounter issues during the build process, check the [troubleshooting doc
 
 ## __________________________________________________________
 ## Some snapshots from the project
-![mobile view](image.png)
 ![Dashboard](image-1.png)
+![mobile view](image.png)
