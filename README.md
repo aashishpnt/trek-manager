@@ -48,3 +48,8 @@ Explore the [deployment documentation](https://create-react-app.dev/docs/deploym
 ## Troubleshooting
 
 If you encounter issues during the build process, check the [troubleshooting documentation](https://create-react-app.dev/docs/troubleshooting/).
+
+## __________________________________________________________
+## Some snapshots from the project
+![mobile view](image.png)
+![Dashboard](image-1.png)
