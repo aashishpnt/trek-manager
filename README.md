@@ -1,6 +1,6 @@
 # Trek Manager
 
-This project is a comprehensive trekking management system developed as part of the Database Management System project by team members Aashish Pant [THA076BEI003], Kaustub Niraula [THA076BEI012], and Rajendra Baskota [THA076BEI021].
+This project is a comprehensive trekking management system developed as part of the Database Management System project by team members **Aashish Pant [THA076BEI003]**, **Kaustub Niraula [THA076BEI012]**, and **Rajendra Baskota [THA076BEI021]**.
 
 ## Curriculum Integration
 
